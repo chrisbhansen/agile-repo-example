@@ -8,3 +8,5 @@ Even more text so we can see what happens with a second merge (with the new bran
 Testing with Coulter
 
 Another addition
+
+This is the test...
